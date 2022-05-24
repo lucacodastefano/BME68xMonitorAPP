@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BME680 Monitor APP</string>
+
+    <string-array name="planets_array">
+        <item>Humidity</item>
+        <item>GasRes</item>
+        <item>BreathVOC</item>
+        <item>IAQ</item>
+        <item>Temperature</item>
+        <item>CO2</item>
+        <item>Pressure</item>
+    </string-array>
+</resources>
